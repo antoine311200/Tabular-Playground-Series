@@ -8,6 +8,7 @@ __pycache__/
 
 submission.csv
 xgboost.json
+index.ipynb
 
 # Distribution / packaging
 .Python
